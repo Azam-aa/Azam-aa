@@ -1,42 +1,24 @@
- # Hi there! 👋 I'm Azam Pasha
+# 👋 Hi, I'm Azam Pasha
 
-🎓 Computer Science & Engineering Graduate  
-📍 Based in Bangalore, India  
-🚀 Currently upgrading skills in Full Stack Web Development
+🎓 CSE Graduate | 💻 Full Stack Learner  
+📍 Bangalore, India  
 
-## 💻 Tech Stack
+## 💻 Tech Stack  
+**Frontend:** HTML, CSS, JavaScript  
+**Backend:** Django (Python)  
+**Tools:** Git, VS Code, XAMPP  
 
-**Frontend:**  
-- HTML, CSS, JavaScript
+## 📂 Featured Projects  
+- [AchiverIT](https://github.com/Azam-aa/AchiverIT) – HTML/CSS practice  
+- [Cardio Prediction](https://github.com/Azam-aa/cardio-disease-prediction) – ML health project  
+- [Corn Seed Viability](https://github.com/Azam-aa/corn-seed-viability) – ML + agriculture  
 
-**Backend:**  
-- Django (Python)
+## 🔧 Learning  
+- Full Stack with Java  
+- Real-world projects  
 
-**Tools & Platforms:**  
-- Git, VS Code, XAMPP
+## ✨ Fun Facts  
+- Codes at 4 AM ☕  
+- Anime & comedy lover 🎥  
 
-## 📂 Featured Projects
-
-🔹 [AchiverIT](https://github.com/Azam-aa/AchiverIT)  
-> Daily uploads of HTML & CSS practice while learning frontend
-
-🔹 [Cardiovascular Disease Prediction](https://github.com/Azam-aa/cardio-disease-prediction)  
-> A mini project using Machine Learning to predict heart conditions
-
-🔹 [Corn Seed Viability Detection](https://github.com/Azam-aa/corn-seed-viability)  
-> Uses machine learning to identify viable corn seeds
-
-## 🛠️ Currently Learning
-- Full-stack web development with Java
-- Building real-world projects to sharpen my full stack skills
-
-## ✨ Fun Facts
-- ☕ I love coding at 4 AM  
-- 🎥 Anime & stand-up comedy fan  
-- 🛠️ Enjoy fixing systems and debugging complex problems
-
----
-
-📫 **Let’s Connect:**  
-[LinkedIn](www.linkedin.com/in/azam-pasha01) • [Email](azamp442@gmail.com) 
-
+📫 [LinkedIn](https://www.linkedin.com/in/azam-pasha01) | [Email](mailto:azamp442@gmail.com)
