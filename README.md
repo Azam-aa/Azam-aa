@@ -8,7 +8,7 @@ Love solving bugs more than creating them 😄
 ### 📫 Connect with me
 
 <!-- Contact Icons Section -->
-<div style="display: flex; gap: 25px; align-items: center; justify-content: start; margin-top: 10px;">
+<div style="display: flex; gap: 35px; align-items: center; justify-content: start; margin-top: 10px;">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/azam-pasha01" target="_blank" title="LinkedIn" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" style="width: 40px; height: 40px; border-radius: 50%;">
@@ -24,5 +24,6 @@ Love solving bugs more than creating them 😄
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="width: 40px; height: 40px; border-radius: 50%;">
   </a>
 </div>
+
 
 
