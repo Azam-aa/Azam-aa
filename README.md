@@ -16,12 +16,11 @@ Love solving bugs more than creating them 😄
 
   <!-- Twitter -->
   <a href="https://x.com/azamp442" target="_blank" title="Twitter">
-    <img src="https://www.flaticon.com/free-icon/twitter_5969020?term=twitter&page=1&position=7&origin=search&related_id=5969020" alt="Twitter" style="width: 40px; height: 40px; border-radius: 50%;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5969020.png" alt="Twitter" style="width: 40px; height: 40px; border-radius: 50%;">
   </a>
 
-  <!-- Email -->
-  <a href="mailto:azamp442@gmail.com" title="Email">
+  <!-- Gmail (opens Gmail compose in browser) -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=azamp442@gmail.com" target="_blank" title="Email">
     <img src="https://cdn-icons-png.flaticon.com/512/16509/16509529.png" alt="Email" style="width: 40px; height: 40px; border-radius: 50%;">
   </a>
 </div>
-
