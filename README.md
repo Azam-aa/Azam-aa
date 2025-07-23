@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Azam Pasha
 
 Passionate about building **clean web interfaces** and **smart AI models**.
-Exploring full stack development with real-world projects.  
+I'm actively exploring **full-stack development** through real-world projects and always eager to dive into new technologies.
 Focused on learning, building, and contributing.  
 Love solving bugs more than creating them 😄  
 
