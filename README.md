@@ -27,7 +27,7 @@ I genuinely enjoy **solving bugs** more than creating them 😄, finding satisfa
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=azamp442@gmail.com" target="_blank" title="Email" style="display: inline-block;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="width: 40px; height: 40px; border-radius: 50%; border: none;">
   </a>
-
+</div>
 
 
 
