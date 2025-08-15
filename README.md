@@ -7,6 +7,7 @@ I'm actively exploring **full-stack development** through real-world projects an
 My focus is on **learning**, **building innovative solutions**, and **contributing to impactful projects**. 
 
 I genuinely enjoy **solving bugs** more than creating them 😄, finding satisfaction in refining code and optimizing performance.
+
  
 
 ## 📫 Connect with me
