@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Azam Pasha
+## 👋 Hi, I'm Azam Pasha
 
 Passionate about building **clean web interfaces** and **smart AI models**.
 
