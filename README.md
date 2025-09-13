@@ -28,5 +28,7 @@ I genuinely enjoy **solving bugs** more than creating them 😄, finding satisfa
   </a>
 </div>
 
+---
+
 
 
