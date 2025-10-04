@@ -29,6 +29,8 @@ I genuinely enjoy **solving bugs** more than creating them 😄, finding satisfa
 </div>
 
 ---
-Thanks for visiting! Looking forward to collaborating and building great things together. 😊
+Thanks for visiting!
+<br />
+Looking forward to collaborating and building great things together. 😊
 
 
