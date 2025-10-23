@@ -1,10 +1,10 @@
 ### 👋 Hi, I'm Azam Pasha.
 
-Passionate about building **clean web interfaces** and **smart AI models**.
+💻 Passionate about building clean, responsive web interfaces and bringing ideas to life through code.
 
-I'm actively exploring **full-stack development** through real-world projects and always eager to dive into new technologies.
+🚀 Currently expanding my skills in Full-Stack Development, with hands-on experience in HTML, CSS, JavaScript, and React.js, and now diving into Java Web Backend Development.
 
-My focus is on **learning**, **building innovative solutions**, and **contributing to impactful projects**. 
+🔍 I love learning new technologies, working on real-world projects, and continuously improving my craft.
 
 I genuinely enjoy **solving bugs** more than creating them 😄, finding satisfaction in refining code and optimizing performance.
 
