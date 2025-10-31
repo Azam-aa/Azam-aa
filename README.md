@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Azam Pasha.
+### 👋👋 Hi, I'm Azam Pasha.
 
 💻 Passionate about building clean, responsive web interfaces and bringing ideas to life through code.
 
