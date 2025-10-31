@@ -8,7 +8,7 @@
 
 I genuinely enjoy **solving bugs** more than creating them 😄, finding satisfaction in refining code and optimizing performance.
 
-## 📫 Connect with me
+### 📫 Connect with me
 <!-- Contact Icons Section -->
 <div style="display: flex; gap: 25px; align-items: center; justify-content: start; margin-top: 10px;">
   
