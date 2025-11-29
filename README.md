@@ -1,4 +1,5 @@
-### 👋👋 Hi, I'm Azam Pasha.
+### 👋👋 Hi, I'm Azam Pasha
+Java Full Stack Developer
 
 💻 Passionate about building clean, responsive web interfaces and bringing ideas to life through code.
 
