@@ -9,8 +9,7 @@ I’m actively learning **Spring Boot, REST APIs, React**, and problem-solving.
 
 
 
-## 🌐 Socials:
-[![LinkdIn](https://img.shields.io/badge/LinkdIn-%237289DA.svg?logo=discord&logoColor=white)](https://www.linkedin.com/in/azam-pasha01/)
+## 🌐 Socials:[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azam-pasha01/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_azam_pasha_aa_?igsh=MXhtNGg2M3Uzejkwcw==) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@azamp442) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8x8YSCED)  [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Azam-Pasha-75) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32131803/azam-pasha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/azamp442) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@azampasha01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azamp442@gmail.com) 
 
 # 💻 Tech Stack:
